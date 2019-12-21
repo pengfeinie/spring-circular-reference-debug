@@ -36,6 +36,7 @@ b. 强依赖之间的循环依赖。这个暂时我先不讲，后面再分析�
 ## 1. 如何解决 UserService 与 RoleService 之间的循环依赖 ？
 
 具体代码依赖如下，那么 Spring 是如何解决这个依赖的呢？
+具体代码可以参考 spring-circular-reference-debug-test1 这个工程。
 
 ```java
 @Service
