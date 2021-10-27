@@ -280,3 +280,4 @@ doCreateBean(beanName, mbdToUse, args)方法内部调用了createBeanInstance(be
 
 分析到此结束。
 
+https://www.baeldung.com/circular-dependencies-in-spring
