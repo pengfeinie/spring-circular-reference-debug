@@ -3,3 +3,6 @@
 /spring-circular-reference-debug-test1/target
 /spring-circular-reference-debug-test2/spring-circular-reference-debug-test2.iml
 /spring-circular-reference-debug.iml
+/*.iml
+/spring-circular-reference-thinking1/*.iml
+/spring-circular-reference-thinking2/*.iml

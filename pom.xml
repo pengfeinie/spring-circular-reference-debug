@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.niepengfei.spring.circular.reference</groupId>
-    <artifactId>spring-circular-reference-debug</artifactId>
+    <artifactId>spring-circular-reference-thinking</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>spring-circular-reference-debug-test1</module>
-        <module>spring-circular-reference-debug-test2</module>
+        <module>spring-circular-reference-thinking1</module>
+        <module>spring-circular-reference-thinking2</module>
     </modules>
     <packaging>pom</packaging>
 </project>
